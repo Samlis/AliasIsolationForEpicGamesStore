@@ -13,10 +13,11 @@ This version is modified for the Epic store release - download the other version
 
 Usage
 -----
+1. Download the .zip file from https://github.com/Samlis/AliasIsolationForEpicGamesStore/releases/tag/1.0
 
-1. Save the mod files in a non-system directory. It could be "Program Files", or "My Documents", or anything else as long as no special permissions are required to access that direcotry. If you're using a pre-packaged release, please unzip it rather than launching the mod from within the zip.
+2. Save the mod files in a non-system directory. It could be "Program Files", or "My Documents", or anything else as long as no special permissions are required to access that direcotry. If you're using a pre-packaged release, please unzip it rather than launching the mod from within the zip.
 
-2. Execute "epicisolation.cmd [path to AI.exe]" from Windows command-line. You have to pass in the path to your Alien Isolation installation folder as the parameter to the script. So, for example, if your installation folder is C:\Games\AlienIsolation, you would run the .cmd like this:
+3. Execute "epicisolation.cmd [path to AI.exe]" from Windows command-line. You have to pass in the path to your Alien Isolation installation folder as the parameter to the script. So, for example, if your installation folder is C:\Games\AlienIsolation, you would run the .cmd like this:
 epicisolation.cmd C:\Games\AlienIsolation\AI.exe
 
 That's it - the mod should be on by default and you should see the "Alias Isolation" logo in the top-left corner once you load a game.
