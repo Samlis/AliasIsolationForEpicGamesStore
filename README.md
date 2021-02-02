@@ -19,8 +19,9 @@ Usage
 
 2. Save the mod files in a non-system directory. It could be "Program Files", or "My Documents", or anything else as long as no special permissions are required to access that direcotry. If you're using a pre-packaged release, please unzip it rather than launching the mod from within the zip.
 
-3. Execute "epicisolation.cmd [path to AI.exe]" from Windows command-line. You have to pass in the full path to your Alien: Isolation executable as the parameter to the script. So, for example, if your installation folder is C:\Games\AlienIsolation, you would run the .cmd like this:
+3. Make sure the game is NOT running. Execute "epicisolation.cmd [path to AI.exe]" from Windows command-line. You have to pass in the full path to your Alien: Isolation executable as the parameter to the script. So, for example, if your installation folder is C:\Games\AlienIsolation, you would run the .cmd like this:
 epicisolation.cmd C:\Games\AlienIsolation\AI.exe
+This will run the game and apply the mod.
 
 Set the video options as per the "Video Settings" section below and that's it - the mod should be on by default and you should see the "Alias Isolation" logo in the top-left corner once you load a game. It should also work with DLC.
 
