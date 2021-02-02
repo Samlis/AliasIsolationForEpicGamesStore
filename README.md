@@ -2,8 +2,10 @@ Overview
 --------
 
 ----------------------------------
-All credit for the actual mod goes to the original AliasIsolation mod creator (https://github.com/aliasIsolation/aliasIsolation). I only changed the hooking code to work with the Epic version (it might actually work with other non-Steam clients, but I only tested with Epic).
+All credit for the actual mod goes to the original AliasIsolation mod creator (https://github.com/aliasIsolation/aliasIsolation). I only changed the hooking code to work with the Epic version (it might actually work with other non-Steam clients, but I only tested with Epic). Source code will be added soon.
 ----------------------------------
+
+
 
 Alias Isolation is a mod for Alien: Isolation. It adds temporal anti-aliasing into the shipped game, and fixes a few small issues with the rendering.
 
@@ -13,7 +15,7 @@ This version is modified for the Epic store release - download the other version
 
 Usage
 -----
-1. Download the .zip file from https://github.com/Samlis/AliasIsolationForEpicGamesStore/releases/tag/1.0
+1. Download the .zip file from the release (https://github.com/Samlis/AliasIsolationForEpicGamesStore/releases/download/1.0/aliasIsolation-1.0.6-EpicGamesStore.zip)
 
 2. Save the mod files in a non-system directory. It could be "Program Files", or "My Documents", or anything else as long as no special permissions are required to access that direcotry. If you're using a pre-packaged release, please unzip it rather than launching the mod from within the zip.
 
