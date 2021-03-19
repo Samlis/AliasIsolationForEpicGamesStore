@@ -15,7 +15,7 @@ This version is modified for the Epic store release - download the other version
 
 Usage
 -----
-1. Download the .zip file from the release (https://github.com/Samlis/AliasIsolationForEpicGamesStore/releases/download/1.0/aliasIsolation-1.0.6-EpicGamesStore.zip)
+1. Download the .zip file from the release (https://github.com/Samlis/AliasIsolationForEpicGamesStore/releases/download/1.1/aliasIsolation-EpicGamesStore_R1.1.zip)
 
 2. Save the mod files in a non-system directory. It could be "Program Files", or "My Documents", or anything else as long as no special permissions are required to access that direcotry. If you're using a pre-packaged release, please unzip it rather than launching the mod from within the zip.
 
