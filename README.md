@@ -23,7 +23,7 @@ Usage
 epicisolation.cmd C:\Games\AlienIsolation\AI.exe
 This will run the game and apply the mod.
 
-NOTE: Some users have reported that they had to increase the number of attempts at mod injection in order to get it to work. By default, the number is set to 150, which should be plenty enough. If the mod is not triggering for you, it is possible that you may need to increase this value as well. Open epicisolation.cmd and change the number 150 to something higher (one user set it to 500 to get it to work), save and re-run as per step 3.
+**NOTE**: Some users have reported that they had to increase the number of attempts at mod injection in order to get it to work. By default, the number is set to 150, which should be plenty enough. If the mod is not triggering for you, it is possible that you may need to increase this value as well. Open epicisolation.cmd and change the number 150 to something higher (one user set it to 500 to get it to work), save and re-run as per step 3.
 
 Set the video options as per the "Video Settings" section below and that's it - the mod should be on by default and you should see the "Alias Isolation" logo in the top-left corner once you load a game. It should also work with DLC.
 
