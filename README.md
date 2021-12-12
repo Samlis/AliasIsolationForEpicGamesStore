@@ -29,6 +29,11 @@ Injection has to be done this way because it wouldn't work directly via code. Fo
 
 Set the video options as per the "Video Settings" section below and that's it - the mod should be on by default and you should see the "Alias Isolation" logo in the top-left corner once you load a game. It should also work with DLC.
 
+**g_device->CreateTexture2D(&texDesc, nullptr, &tempTex) failed. error / overlay error**
+If you get this error, rename the Overlay folder under your Epic installation to something else, e.g. if your Epic is installed under
+C:\Program Files (x86)\Epic Games
+rename folder C:\Program Files (x86)\Epic Games\Launcher\Portal\Extras\Overlay to something else, like C:\Program Files (x86)\Epic Games\Launcher\Portal\Extras\OverlayABC.
+
 
 Video Settings
 --------------
