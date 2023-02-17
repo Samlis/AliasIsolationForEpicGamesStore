@@ -34,6 +34,34 @@ If you get this error, rename the Overlay folder under your Epic installation to
 C:\Program Files (x86)\Epic Games
 rename folder C:\Program Files (x86)\Epic Games\Launcher\Portal\Extras\Overlay to something else, like C:\Program Files (x86)\Epic Games\Launcher\Portal\Extras\OverlayABC.
 
+Another error you might get is:
+
+---------------------------
+Fatal error
+---------------------------
+A fatal error was caught by Alias Isolation, and the current process will terminate.
+A crash dump has been written to C:\Users\Michal\AppData\Local\Temp\aliasIsolationCrashDump.dmp.
+Press Ctrl+C to copy the contents of this message to the clipboard.
+
+CreateDirect3D11SurfaceFromDXGISurface
+ ?? 
+ ?? 
+ ?? 
+ ?? 
+ ?? 
+ ?? 
+ ?? 
+ ?? 
+BaseThreadInitThunk
+RtlGetAppContainerNamedObjectPath
+RtlGetAppContainerNamedObjectPath
+
+---------------------------
+OK   
+---------------------------
+
+Try renaming the Epic overlay folder: C:\Program Files (x86)\Epic Games\Launcher\Portal\Extras\Overlay
+
 
 Video Settings
 --------------
